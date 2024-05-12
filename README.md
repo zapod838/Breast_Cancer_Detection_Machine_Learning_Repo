@@ -1,6 +1,6 @@
 # RSNA Screening Mammography Breast Cancer Detection
 
-VScode_Tensordashboard_
+VScode_Tensordashboard_Reactpy_FastAPI_Docker_AWS
 - In this project, trained VGG-16 with screening mammograms obtained from regular screening.
 - Use Tensordashboard for logging experiments, comapred various error matrics such as F1 score, AUC curve and loss to monitor each models performance.
 - Created pipelines for testing 4 different scanned memmograms of single petient to get probability outcomes to detect malognant for cancer or not.
