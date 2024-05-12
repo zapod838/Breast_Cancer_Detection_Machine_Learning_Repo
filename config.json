@@ -1,0 +1,7 @@
+{
+    "model_name": "RSNA_VGG16",
+    "description": "VGG16 model trained on RSNA dataset for computer vision tasks.",
+    "authors": ["MK"],
+    "tags": ["computer-vision", "VGG16", "RSNA"]
+  }
+  
