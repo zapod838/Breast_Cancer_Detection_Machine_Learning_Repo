@@ -34,13 +34,15 @@ We selected the VGG-16 model for its proficiency in handling image data. The pro
 
 To set up the project and run it locally, follow these steps:
 
-1. **Clone the Repository**: git clone https://github.com/zapod838/breast-cancer-detection-via-vgg16.git
+1. **Clone the Repository**:
+git clone https://github.com/zapod838/breast-cancer-detection-via-vgg16.git
 cd breast-cancer-detection-via-vgg16
 
-2. **Install Dependencies**:
-Ensure that Python 3.8 or higher is installed on your machine. Then install the required Python packages: pip install -r requirements.txt
+3. **Install Dependencies**:
+Ensure that Python 3.8 or higher is installed on your machine. Then install the required Python packages:
+pip install -r requirements.txt
 
-3. **Run the Streamlit Application**:
+5. **Run the Streamlit Application**:
 Start the Streamlit web application by running: streamlit run streamlit_app.py
 
 This will launch the Streamlit application in your default web browser, usually accessible via `http://localhost:8501`.
