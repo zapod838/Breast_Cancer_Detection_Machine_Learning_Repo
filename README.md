@@ -90,15 +90,11 @@ The user interface of our application is designed to be intuitive and user-frien
 
 As we continue to improve and expand our breast cancer detection application, our agenda includes the following milestones:
 
-- **Model Enhancement**:
-- Test and fine-tune advanced models including InceptionV3, EfficientNet, and Vision Transformers (ViT) to improve accuracy and efficiency.
+- **Model Enhancement**: Test and fine-tune advanced models including InceptionV3, EfficientNet, and Vision Transformers (ViT) to improve accuracy and efficiency.
 
-- **Application Development**: 
-- Expand the front-end using ReactPy to enhance user interaction.
-- Develop a more robust back-end using FastAPI to handle requests more efficiently.
+- **Application Development**: Expand the front-end using ReactPy to enhance user interaction. Develop a more robust back-end using FastAPI to handle requests more efficiently.
 
-- **Cloud Implementation**:
-- Implement the application on cloud platforms such as AWS and Google Cloud to ensure scalability and accessibility.
+- **Cloud Implementation**: Implement the application on cloud platforms such as AWS and Google Cloud to ensure scalability and accessibility.
 
 These steps are aimed at refining our application to meet the needs of clinical settings more effectively and to ensure it remains at the cutting edge of technology.
 
