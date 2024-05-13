@@ -70,6 +70,40 @@ Explore other functionalities provided by the application, such as adjusting mod
 
 These instructions provide users with clear guidance on how to set up the project and effectively use the application to make breast cancer predictions using your AI model. Adjust the repository URL and any specific instructions according to your actual setup and application features.
 
+## Application UI
+
+The user interface of our application is designed to be intuitive and user-friendly. Here’s a snapshot of what to expect:
+
+![BC Prediction App]([path/to/screenshot.png](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/9ac385e2-38a0-4d71-8996-ee50654438f8))
+
+### Features:
+- **Model Selection**: Users can choose which model's information to display, providing flexibility and insights into different model performances.
+- **Real-Time Prediction**: The application processes uploaded mammographic images in real-time, displaying predictions on the likelihood of breast cancer presence.
+
+This interface ensures that users not only get rapid results but also have the ability to explore and understand the underlying AI model's decisions.
+
+![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/9ac385e2-38a0-4d71-8996-ee50654438f8)
+
+![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/95743ffe-f461-4f40-bbee-407081bf9839)
+
+![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/2720d559-fd52-4092-ae18-17147ad2416d)
+
+## Future Development Plans
+
+As we continue to improve and expand our breast cancer detection application, our agenda includes the following milestones:
+
+- **Model Enhancement**: 
+  - Test and fine-tune advanced models including InceptionV3, EfficientNet, and Vision Transformers (ViT) to improve accuracy and efficiency.
+
+- **Application Development**: 
+  - Expand the front-end using ReactPy to enhance user interaction.
+  - Develop a more robust back-end using FastAPI to handle requests more efficiently.
+
+- **Cloud Implementation**:
+  - Implement the application on cloud platforms such as AWS and Google Cloud to ensure scalability and accessibility.
+
+These steps are aimed at refining our application to meet the needs of clinical settings more effectively and to ensure it remains at the cutting edge of technology.
+
 ## Contributors
 
 - Eoin Holly
@@ -86,17 +120,3 @@ Acknowledgments to instructors, data sources, and any third-party code or tools 
 ## License
 
 Information on the repository licensing - typically how others can use the code or contribute to it.
-
-
-## Next in the agenda.
-- Test and finetune different models such as InceptionV3, EfficientNet and Vision Transformers (ViT)
-- For application development: Frontend(Reactpy), backened(FastAPI)
-- Implementing AWS, Google Cloud Platforms for hosting project
-
-## Application UI
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/9ac385e2-38a0-4d71-8996-ee50654438f8)
-
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/95743ffe-f461-4f40-bbee-407081bf9839)
-
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/2720d559-fd52-4092-ae18-17147ad2416d)
-
