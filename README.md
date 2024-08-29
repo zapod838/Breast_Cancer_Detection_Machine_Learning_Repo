@@ -1,7 +1,5 @@
 # Breast Cancer Detection Using VGG-16 AI Model
 
-This repository hosts the project for the "Breast Cancer Detection Using VGG-16 AI Model" developed as part of the IS 6611 course on Applied Research in Business Analytics. Our team aimed to enhance the accuracy and efficiency of breast cancer detection in clinical settings using advanced machine learning techniques.
-
 ## Project Overview
 
 ### Introduction
