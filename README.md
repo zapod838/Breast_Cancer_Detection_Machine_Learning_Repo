@@ -11,6 +11,9 @@ Breast cancer remains a major global health issue. With the increasing number of
 ### Solution Approach
 We selected the VGG-16 model for its proficiency in handling image data. The project includes a Streamlit application that demonstrates the model's real-time prediction capabilities, aiming to provide a practical tool for clinical use.
 
+![VGG16](https://github.com/user-attachments/assets/c4829ab3-15c0-4d27-a44e-dcb9fb52759f)
+
+
 ## Repository Contents
 
 - `rsna-vgg16.ipynb`: Jupyter notebook detailing the VGG-16 model training and evaluation.
@@ -73,16 +76,6 @@ These instructions provide users with clear guidance on how to set up the projec
 ### Features:
 - **Model Selection**: Users can choose which model's information to display, providing flexibility and insights into different model performances.
 - **Real-Time Prediction**: The application processes uploaded mammographic images in real-time, displaying predictions on the likelihood of breast cancer presence.
-
-This interface ensures that users not only get rapid results but also have the ability to explore and understand the underlying AI model's decisions.
-The user interface of our application is designed to be intuitive and user-friendly. Here’s a snapshot of what to expect:
-
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/9ac385e2-38a0-4d71-8996-ee50654438f8)
-
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/95743ffe-f461-4f40-bbee-407081bf9839)
-
-![image](https://github.com/zapod838/RSNA_BC_Detection/assets/45763055/2720d559-fd52-4092-ae18-17147ad2416d)
-
 
 ## Future Development Plans
 
